@@ -3,7 +3,7 @@
 from typing import Union
 from warnings import warn
 
-from fife.base_modelers import (
+from tspiral.base_modelers import (
     default_subset_to_all,
     Modeler,
     SurvivalModeler,
