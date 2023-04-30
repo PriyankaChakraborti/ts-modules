@@ -1,4 +1,4 @@
-"""Define pytest fixtures for FIFE unit testing."""
+"""Define pytest fixtures for  unit testing."""
 
 import datetime as dt
 
